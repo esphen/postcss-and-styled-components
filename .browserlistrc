@@ -1,0 +1,9 @@
+# Browsers that we support
+# This file specifies major browsers explicitly to avoid supporting niche browsers
+# https://jamie.build/last-2-versions
+
+IE 11
+Last 3 Firefox major versions
+Last 3 Chrome major versions
+Last 3 Edge major versions
+Last 3 Safari major versions
